@@ -1,2 +1,0 @@
-D:\learngit\MyProject\Debug\MyProject.exe
-D:\learngit\MyProject\Debug\MyProject.pdb
